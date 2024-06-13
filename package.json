@@ -1,0 +1,16 @@
+{
+  "name": "controlled-style",
+  "version": "2.0.4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "esbuild": "node scripts/esbuild.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "melvor-types": "https://github.com/GamesByMalcsPtyLtd/Melvor-Typing-Project"
+  },
+  "standard-version": {
+    "tag-prefix": "Controlled-Style@v"
+  }
+}

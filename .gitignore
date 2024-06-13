@@ -1,0 +1,10 @@
+node_modules
+packed
+esbuild/
+version.txt
+dist
+package-lock.json
+.gitlab-ci-local-variables.yml
+.gitlab-ci.yml
+.gitlab-ci-local
+package
