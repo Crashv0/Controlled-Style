@@ -3,5 +3,5 @@
   "name": "Controlled Style",
   "icon": "https://i.ibb.co/bB5Zkf7/cas-icon.png",
   "setup": "setup.mjs",
-  "version": "2.0.4"
+  "version": "2.0.5"
 }
